@@ -4,7 +4,7 @@ Ini merupakan file projek Test masuk PT SmartTechtex
 
 ## Quick Start
 - [Download File](Kamim.zip)
-- Ektrak file tersebut local server
+- Ektrak file yang telah diwoloand lalu pindahkan kelocal server
 - Buat Database dengan nama "test_splus"
 ## Documentation
 - [Register](Kamim.zip)
