@@ -7,13 +7,14 @@ Ini merupakan file projek Test masuk PT SmartTechtex
 - Ektrak file yang telah diwoloand lalu pindahkan kelocal server
 - Buat Database dengan nama "test_splus"
 ## Documentation
-- [Register](Kamim.zip)
-- [Update User](Kamim.zip)
-- [Delete User](Kamim.zip)
-- [Login](Kamim.zip)
-- [Create Postingan](Kamim.zip)
-- [Update Postingan](Kamim.zip)
-- [Delete Postingan](Kamim.zip)
+- [Register](FormRegister.png)
+- [Login](FormLogin.png)
+- [Create Postingan](FormCreatePosting.png)
+- [Update Postingan](FormUpdatePostingan.png)
+- [Delete Postingan](DeletePostingan.png)
+
+- [Halam Awal](HalamaAwal.png)
+- [Halaman Setelah Login](HalamaSetelahLogin.png)
 
 
 ## Created by
